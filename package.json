@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "A set of Javascript useful functions",
   "main": "index.js",
+  "type": "module",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack --config webpack.config.js"
   },
   "keywords": [],
   "author": "Haneen Mahdin",
