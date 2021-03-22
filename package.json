@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "Haneen Mahdin",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.22.0"
+  }
 }
