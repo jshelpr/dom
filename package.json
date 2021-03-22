@@ -7,9 +7,6 @@
   "directories": {
     "lib": "lib"
   },
-  "scripts": {
-    "build": "webpack --config webpack.config.js"
-  },
   "keywords": [],
   "author": "Haneen Mahdin",
   "license": "ISC"
